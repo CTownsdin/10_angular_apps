@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add numbers</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-animate.js"></script>
+  <style> /*special ng-cloak'ing css style*/
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak { display: none !important;}
+  </style>
+  
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <script src="./script.js"></script>
+</head>
+
+<body ng-app="app" ng-cloak>
+  <h1>AngularJS animation playground</h1>
+
+  <div class="container" ng-controller="mainController">
+    <button ng-click="addNumber()">Add another number</button>
+    <div ng-repeat="number in numbers" class="number">
+      {{ number }}
+    </div>
+  </div> <!-- end container -->
+  
+</body>
+</html>
