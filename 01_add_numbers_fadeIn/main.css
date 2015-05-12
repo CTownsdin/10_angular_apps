@@ -1,0 +1,15 @@
+body {
+  margin: 3%;
+}
+
+.number {
+  transition: 0.20s linear all;
+}
+
+.number.ng-enter{
+  opacity: 0;
+}
+
+.number.ng-enter-active {
+  opacity: 0;
+}
