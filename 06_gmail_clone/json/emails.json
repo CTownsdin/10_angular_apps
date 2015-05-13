@@ -6,21 +6,21 @@
     "id": 50223456
   },
   {
-    "from":  "Meetup.com",
+    "from": "TravisCI",
     "date": 1400956671914,
-    "subject": "Run with Seattle Greenlake Running Group",
-    "id": 50223459
+    "subject": "[Passed] conditionizr/conditionizr#1 (v0.1.0 - edd6500)",
+    "id": 10824581
   },
   {
-    "from":  "Dan Smith",
+    "from": "GitHub",
     "date": 1400956671914,
-    "subject":  "Starcraft 2 Friday Night?",
-    "id": 50223462
+    "subject": "New repo 'conditionizr' created",
+    "id": 90345551
   },
   {
-    "from":  "Meetup.com",
+    "from": "Google Feedburner",
     "date": 1400956671914,
-    "subject":  "AngularJS meetup group this Thursday @ Uptown",
-    "id":  50223471
+    "subject": "New subscription",
+    "id": 74838344
   }
 ]
