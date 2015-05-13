@@ -1,0 +1,26 @@
+[
+  {
+    "from": "TicketFactory",
+    "date": 1400956671914,
+    "subject": "Your confirmation #W45021238038",
+    "id": 50223456
+  },
+  {
+    "from":  "Meetup.com",
+    "date": 1400956671914,
+    "subject": "Run with Seattle Greenlake Running Group",
+    "id": 50223459
+  },
+  {
+    "from":  "Dan Smith",
+    "date": 1400956671914,
+    "subject":  "Starcraft 2 Friday Night?",
+    "id": 50223462
+  },
+  {
+    "from":  "Meetup.com",
+    "date": 1400956671914,
+    "subject":  "AngularJS meetup group this Thursday @ Uptown",
+    "id":  50223471
+  }
+]
